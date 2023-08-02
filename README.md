@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **Prasannaverse13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UB3dlwCTFGgJhGi3Q3dBDoDcobt2yWqc/view?usp=sharing](https://drive.google.com/file/d/1UB3dlwCTFGgJhGi3Q3dBDoDcobt2yWqc/view?usp=sharing)
-
 - ⚡ Fun fact **Great things never came from comfort zones.**
 
 <h3 align="left">Connect with me:</h3>
