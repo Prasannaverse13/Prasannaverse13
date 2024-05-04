@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannaverse13&label=Profile%20views&color=0e75b6&style=flat" alt="prasannaverse13" /> </p>
 
-- 🔭 I’m currently working on **Metaverse open world**
-
-- 🌱 I’m currently learning **MongoDB , blockchain Computing , react**
-
-- 👨‍💻 All of my projects are available at [https://prasannaramportfolio.w3spaces.com/](https://prasannaramportfolio.w3spaces.com/)
-
-- 💬 Ask me about **Metaverse , NFT , Blockchain**
-
 - 📫 How to reach me **Prasannaverse13@gmail.com**
 
 - ⚡ Fun fact **Great things never came from comfort zones.**
