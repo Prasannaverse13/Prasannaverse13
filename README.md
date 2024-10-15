@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannaverse13&label=Profile%20views&color=0e75b6&style=flat" alt="prasannaverse13" /> </p>
 
-- 📫 How to reach me **Prasannaverse13@gmail.com**
-
 - ⚡ Fun fact **Great things never came from comfort zones.**
 
 <h3 align="left">Connect with me:</h3>
